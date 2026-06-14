@@ -16,9 +16,9 @@ I'm **Ayush Mittal**, a CSE undergrad who loves designing intelligent systems an
 
 ## [LeetCode](https://leetcode.com/u/Lazy_optimizer_764/)
 
-* Max Rating: **1903** (Knight Badge)
-* **500+** problems solved
-* Top **4%** globally
+* Max Rating: **1950** (Knight Badge)
+* **700+** problems solved
+* Top **3%** globally
 
 ## [Codeforces](https://codeforces.com/profile/lazy_optimizer_764)
 
@@ -32,7 +32,7 @@ I'm **Ayush Mittal**, a CSE undergrad who loves designing intelligent systems an
 
 ---
 
-# 💡 Featured Projects
+# 💡 Projects
 
 ### [Farmers Marketplace](https://github.com/ayushm764/Farmers-Marketplace)
 
